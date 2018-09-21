@@ -1,2 +1,0 @@
-# Pythont
-print ("Hello World")
